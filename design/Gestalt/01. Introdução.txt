@@ -1,0 +1,16 @@
+24/09/2017
+
+Above the fold: Parte de cima da dobra do jornal impresso (ou site). Contém as imagens de maior destaque do jornal
+
+Below the fold: Parte de baixo da dobra do jornal impresso. Contém o conteúdo referente às imagens da parte de cima do jornal
+
+Place holder text: Hint
+
+Gestalt - Psicologia de percepção da forma
+
+Getalt significa forma em alemão
+
+Supersoma: A soma das partes individuais constitui uma terceira forma com características próprias
+
+Transponibilidade: A forma do objeto o define, independente do material, tamanho e outros detalhes que ele tenha
+
