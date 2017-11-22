@@ -1,7 +1,0 @@
-13/09/2017
-
-Install JBoss Forge (Get for your OS);
-forge
-project-new --named javaweb-solenis-reports
-
-import maven project

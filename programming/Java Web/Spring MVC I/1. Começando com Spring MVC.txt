@@ -1,0 +1,17 @@
+13/09/2017
+
+Baixar JBoss Forge (Get for your OS);
+
+Navegar até a pasta bin, abrir o cmd e executar os comandos:
+forge
+project-new --named javaweb-solenis-reports
+
+No eclipse:
+import -> Existing Maven Projects
+
+
+22/11/2017
+
+A primeira coisa à ser feita em um projeto Spring é criar controllers.
+
+É necessário informar ao servidor de que o Spring será responsável pelas requisições.
