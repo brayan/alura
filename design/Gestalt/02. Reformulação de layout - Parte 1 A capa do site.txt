@@ -1,0 +1,31 @@
+13/11/2017
+
+Frameworks UI geralmente trabalham com 12 colunas
+
+View -> New Guide Layout
+
+Fechamento: boa distribuição dos elementos; bom alinhamento.
+
+
+Espaço -> permite navegar pelo documento
+Ctrl + t -> permite mover as views
+Ctrl + ; -> Ocultar guias
+
+
+22/11/2017
+
+Princípio da Unidade: É o "todo". É uma forma que começa e termina em si mesma, mas também pode ser um conjunto de elementos. Ex: um site,  um smile, uma bola.
+
+Princípio da Segregação (Separação): É por meio da segregação que distinguimos uma forma da outra. Pode ser feita por contraste, posição, diferença de cor.
+
+Princípio da Unificação: É o processo que agrupa elementos e gera novas formas com caracteríssticas e funções próprias. Ex: Agrupar um ícone com um círculo para criar um botão.
+
+Princípio do Fechamento: Considera a distribuição de elementos e alinhamento, demarcando a área correspondente àquela forma. Importante para formar unidades.
+
+Princípio da Continuidade: Transmite a idéia de que há algo adiante. Torna composições visuais agradáveis e intuitivas.
+
+Princípio da Proximidade: Cada item depende de um espaçamento adequado para que funcione visualmente bem.
+
+Princípio da Semelhança: A semelhança preserva a identidade das composições e reforça a harmonia visual.
+
+Princípio da Pregnância da Forma: Quando a forma é automaticamente associada à sua ideia. Ex: logos, sites.
