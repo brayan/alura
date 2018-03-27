@@ -5,10 +5,12 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 import br.com.caelum.financas.model.Conta;
+import br.com.caelum.financas.util.JpaUtil;
 
 public class ContaTest {
 
 	public static void main(String[] args) {
+		// conta is transient state
 		Conta conta = new Conta();
 		conta.setTitular("Leonardo");
 		conta.setAgencia("123");
@@ -16,16 +18,18 @@ public class ContaTest {
 		conta.setNumero("456");
 		
 		
-		EntityManagerFactory factory = Persistence.createEntityManagerFactory("financas");
-		
-		EntityManager manager = factory.createEntityManager();
+		EntityManager manager = new JpaUtil().getEntityManager();
 		
 		manager.getTransaction().begin();
+		// conta is managed state
 		manager.persist(conta);
 		manager.getTransaction().commit();
 		
 		manager.close();
-		factory.close();
+		
+		// conta is detached state
+		
+		// use the merge method to transform a detached entity into managed
 		
 	}
 	

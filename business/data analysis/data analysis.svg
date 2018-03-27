@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="data analysis.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="467.75187"
+     inkscape:cy="-293.85873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.20617031"
+       x="41.836109"
+       y="317.9249"
+       id="text4325"><tspan
+         sodipodi:role="line"
+         id="tspan4323"
+         x="41.836109"
+         y="317.9249"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.20617031">1 - Antes de analisar os dados:</tspan></text>
+    <text
+       id="text4329"
+       y="330.36032"
+       x="51.625694"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.20617031"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.20617031"
+         y="330.36032"
+         x="51.625694"
+         id="tspan4327"
+         sodipodi:role="line">Verificar e validar a presenã de todos os dados em uma determinada ordem</tspan></text>
+    <text
+       id="text4337"
+       y="345.97073"
+       x="41.836109"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.24681187px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.20617031"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;fill:#333333;stroke-width:0.20617031"
+         y="345.97073"
+         x="41.836109"
+         id="tspan4335"
+         sodipodi:role="line">2 - Criar graficos a partir dos dados</tspan></text>
+    <text
+       id="text4349"
+       y="358.67075"
+       x="51.625694"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.20617031"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.20617031"
+         y="358.67075"
+         x="51.625694"
+         id="tspan4347"
+         sodipodi:role="line">Definir corretamente o nome do gráfico e suas legendas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.20617031"
+       x="51.625694"
+       y="369.78323"
+       id="text4353"><tspan
+         sodipodi:role="line"
+         id="tspan4351"
+         x="51.625694"
+         y="369.78323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.20617031">Não deduza o valor somente vendo o gráfico.. Gráfico é somente a forma. </tspan><tspan
+         sodipodi:role="line"
+         x="51.625694"
+         y="376.39783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:0.20617031"
+         id="tspan4355">A melhor maneira é ver o valor na tabela</tspan></text>
+  </g>
+</svg>
