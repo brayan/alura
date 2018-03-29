@@ -50,8 +50,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="952.75056"
-     inkscape:cy="-3710.3775"
+     inkscape:cx="1009.9886"
+     inkscape:cy="-5020.5432"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1170,12 +1170,6 @@
          x="163.20538"
          id="tspan5322"
          sodipodi:role="line">1</tspan></text>
-    <circle
-       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:none;stroke-width:2.1497395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5326"
-       cx="292.29626"
-       cy="1218.4286"
-       r="6.8791661" />
     <text
        id="text5330"
        y="1230.964"
@@ -1425,5 +1419,282 @@
          x="162.27083"
          y="1331.9788"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff8080;fill-opacity:1;stroke-width:0.22492126">5XX - Server error responses</tspan></text>
+    <circle
+       style="opacity:1;fill:#5fd3bc;fill-opacity:1;stroke:none;stroke-width:2.1497395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5326"
+       cx="292.29626"
+       cy="1218.4286"
+       r="6.8791661" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.22492126;"
+       x="162.27083"
+       y="1378.9928"
+       id="text4553"><tspan
+         sodipodi:role="line"
+         id="tspan4551"
+         x="162.27083"
+         y="1378.9928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;fill-opacity:1;stroke-width:0.22492126;">https://www.youtube.com/<tspan
+   style="fill:#37abc8"
+   id="tspan4555">results</tspan><tspan
+   style="fill:#ff8080"
+   id="tspan4559">?</tspan><tspan
+   style="fill:#ffcc00"
+   id="tspan4561">search_query</tspan>=<tspan
+   style="fill:#33b79d;fill-opacity:1"
+   id="tspan4563">android</tspan></tspan></text>
+    <text
+       id="text4575"
+       y="1392.7458"
+       x="243.65753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;fill-opacity:1;stroke-width:0.22492126"
+         y="1392.7458"
+         x="243.65753"
+         id="tspan4573"
+         sodipodi:role="line"><tspan
+           id="tspan4565"
+           style="fill:#37abc8">Recurso</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="277.14835"
+       y="1392.222"
+       id="text4581"><tspan
+         sodipodi:role="line"
+         id="tspan4579"
+         x="277.14835"
+         y="1392.222"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff8080;fill-opacity:1;stroke-width:0.22492126">Passar parâmetros no recurso<tspan
+   style="fill:#ff8080;fill-opacity:1"
+   id="tspan4577" /></tspan></text>
+    <text
+       id="text4587"
+       y="1392.8784"
+       x="377.03159"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffcc00;fill-opacity:1;stroke-width:0.22492126"
+         y="1392.8784"
+         x="377.03159"
+         id="tspan4585"
+         sodipodi:role="line">Parâmetro</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#33b79d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="417.9248"
+       y="1392.8784"
+       id="text4591"><tspan
+         sodipodi:role="line"
+         id="tspan4589"
+         x="417.9248"
+         y="1392.8784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#33b79d;fill-opacity:1;stroke-width:0.22492126">Valor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="271.30518"
+       y="1392.2288"
+       id="text4595"><tspan
+         sodipodi:role="line"
+         id="tspan4593"
+         x="271.30518"
+         y="1392.2288"
+         style="fill:#0044aa;stroke-width:0.26458332">+</tspan></text>
+    <text
+       id="text4599"
+       y="1392.2288"
+       x="371.18842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#0044aa;stroke-width:0.26458332"
+         y="1392.2288"
+         x="371.18842"
+         id="tspan4597"
+         sodipodi:role="line">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0044aa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="411.6142"
+       y="1392.2288"
+       id="text4603"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="411.6142"
+         y="1392.2288"
+         style="fill:#0044aa;stroke-width:0.26458332">+</tspan></text>
+    <text
+       id="text4607"
+       y="1421.8169"
+       x="162.27083"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1421.8169"
+         x="162.27083"
+         id="tspan4605"
+         sodipodi:role="line">Métodos HTTP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="170.20822"
+       y="1435.046"
+       id="text4611"><tspan
+         sodipodi:role="line"
+         id="tspan4609"
+         x="170.20822"
+         y="1435.046"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126">GET: Buscar</tspan></text>
+    <text
+       id="text4615"
+       y="1448.9368"
+       x="170.20822"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1448.9368"
+         x="170.20822"
+         id="tspan4613"
+         sodipodi:role="line">POST: Inserir</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="170.20822"
+       y="1462.7611"
+       id="text4619"><tspan
+         sodipodi:role="line"
+         id="tspan4617"
+         x="170.20822"
+         y="1462.7611"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126">PUT: Atualizar</tspan></text>
+    <text
+       id="text4623"
+       y="1476.5856"
+       x="170.20822"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1476.5856"
+         x="170.20822"
+         id="tspan4621"
+         sodipodi:role="line">DELETE: Deletar</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:#74acff;fill-opacity:1;stroke:none;stroke-width:3.32344747;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4583"
+       sodipodi:sides="3"
+       sodipodi:cx="246.32709"
+       sodipodi:cy="1629.2552"
+       sodipodi:r1="30.952698"
+       sodipodi:r2="15.47635"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359875"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 246.32709,1598.3026 13.40291,23.2145 13.40291,23.2145 -26.80582,0 -26.80583,0 13.40292,-23.2145 z"
+       inkscape:transform-center-x="2.2841604e-006"
+       inkscape:transform-center-y="-2.9557444" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.04982185px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#74acff;fill-opacity:1;stroke:none;stroke-width:0.52624559"
+       x="227.00298"
+       y="1551.5209"
+       id="text4589"><tspan
+         sodipodi:role="line"
+         id="tspan4587"
+         x="227.00298"
+         y="1551.5209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.88432026px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#74acff;fill-opacity:1;stroke-width:0.52624559">REST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="277.09991"
+       y="1644.6653"
+       id="text4593"><tspan
+         sodipodi:role="line"
+         id="tspan4591"
+         x="277.09991"
+         y="1644.6653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126">REPRESENTAÇÃO</tspan></text>
+    <text
+       id="text4597"
+       y="1654.984"
+       x="274.62198"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1654.984"
+         x="274.62198"
+         id="tspan4595"
+         sodipodi:role="line">(JSON/XML/HTML)</tspan></text>
+    <text
+       id="text4601"
+       y="1638.2179"
+       x="230.85626"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.90145588px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.3975364"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99933243px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;fill-opacity:1;stroke-width:0.3975364"
+         y="1638.2179"
+         x="230.85626"
+         id="tspan4599"
+         sodipodi:role="line">HTTP</tspan></text>
+    <text
+       id="text4605"
+       y="1644.6653"
+       x="167.64049"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1644.6653"
+         x="167.64049"
+         id="tspan4603"
+         sodipodi:role="line">OPERAÇÕES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="155.0303"
+       y="1654.984"
+       id="text4609"><tspan
+         sodipodi:role="line"
+         id="tspan4607"
+         x="155.0303"
+         y="1654.984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126">(GET/POST/DELETE)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       x="231.3815"
+       y="1583.8427"
+       id="text4613"><tspan
+         sodipodi:role="line"
+         id="tspan4611"
+         x="231.3815"
+         y="1583.8427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126">RECURSO</tspan></text>
+    <text
+       id="text4617"
+       y="1591.7802"
+       x="238.79546"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1591.7802"
+         x="238.79546"
+         id="tspan4615"
+         sodipodi:role="line">(URI)</tspan></text>
+    <text
+       id="text4631"
+       y="1562.9407"
+       x="187.38179"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.99685001px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.22492126"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78907633px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#4d4d4d;fill-opacity:1;stroke-width:0.22492126"
+         y="1562.9407"
+         x="187.38179"
+         id="tspan4629"
+         sodipodi:role="line">REpresentational State Transfer (REST)</tspan></text>
   </g>
 </svg>
