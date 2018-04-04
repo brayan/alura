@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="793.70081"
-   height="1122.5197"
+   width="3042.2693"
+   height="5441.6968"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="141.61343"
-     inkscape:cy="-4012.4439"
+     inkscape:zoom="1"
+     inkscape:cx="784.34407"
+     inkscape:cy="389.70233"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,7 +85,11 @@
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
      inkscape:snap-center="true"
-     inkscape:pagecheckerboard="false" />
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -101,7 +105,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(109.26917,-996.62012)">
     <path
        style="fill:#fff6d5;stroke:none;stroke-width:2.84325385;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2316.4817,5692.8574 v 43.8289 h 35.5962 l 36.3792,-40.5114 v -3.3175 z"
@@ -115,7 +120,7 @@
        r="63" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="1125.7196"
        id="text3759"><tspan
@@ -123,12 +128,12 @@
          id="tspan3761"
          x="41.599998"
          y="1125.7196"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">1. Contato inicial com o cliente para saber tudo o que a empresa faz</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">1. Contato inicial com o cliente para saber tudo o que a empresa faz</tspan><tspan
          sodipodi:role="line"
          x="41.599998"
          y="1152.3862"
          id="tspan3853"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">e qual o objetivo dela;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">e qual o objetivo dela;</tspan></text>
     <g
        id="g3869"
        transform="translate(262.02681,-163.7197)"
@@ -194,28 +199,28 @@
        id="text3845"
        y="1326.1123"
        x="1278.8253"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="1326.1123"
          x="1278.8253"
          id="tspan3847"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:1.06666672;fill:#333333;"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672;fill:#333333;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;stroke-width:1.06666672"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
            id="tspan3851">Byte</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672;fill:#333333;"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
            id="tspan3849"> Bank</tspan></tspan></text>
     <text
        id="text3855"
        y="1227.053"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan3859"
          y="1227.053"
          x="41.599998"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">2. Esboçar algumas ideias no papel sobre como deve ser o logo;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">2. Esboçar algumas ideias no papel sobre como deve ser o logo;</tspan></text>
     <g
        id="g3879"
        transform="translate(-12.85239,-51.7197)"
@@ -279,19 +284,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="1346.3462"
        y="1438.1122"
        id="text3897"><tspan
-         style="font-size:59.98067474px;line-height:1.25;stroke-width:1.06666672;fill:#333333;"
+         style="font-size:59.98067474px;line-height:1.25;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          id="tspan3899"
          x="1346.3462"
          y="1438.1122"><tspan
            id="tspan3901"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:'Roboto Light';-inkscape-font-specification:'Roboto Light, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672;fill:#333333;">Byte</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:'Roboto Light';-inkscape-font-specification:'Roboto Light, Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Byte</tspan><tspan
            id="tspan3903"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06666672;fill:#333333;">Bank</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Bank</tspan></tspan></text>
     <g
        id="g3982"
        transform="matrix(0.88826404,0,0,0.88826404,381.58301,34.065879)"
@@ -357,16 +362,16 @@
        id="text3940"
        y="1550.1123"
        x="1346.3463"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672"
          id="tspan3948"
          y="1550.1123"
          x="1346.3463"
          sodipodi:role="line">Byte</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="1346.3463"
        y="1607.9044"
        id="text3957"><tspan
@@ -374,7 +379,7 @@
          x="1346.3463"
          y="1607.9044"
          id="tspan3959"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672;">Bank</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672">Bank</tspan></text>
     <g
        id="g4096"
        transform="translate(-214.65742,169.65758)"
@@ -438,7 +443,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="1511.5018"
        y="1554.8135"
        id="text4010"><tspan
@@ -446,21 +451,21 @@
          x="1511.5018"
          y="1554.8135"
          id="tspan4012"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672;">Byte</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672">Byte</tspan></text>
     <text
        id="text4014"
        y="1604.3083"
        x="1562.7906"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672;"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:59.98067474px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:1.06666672"
          id="tspan4016"
          y="1604.3083"
          x="1562.7906"
          sodipodi:role="line">Bank</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="1311.5287"
        id="text4033"><tspan
@@ -468,15 +473,15 @@
          x="41.599998"
          y="1311.5287"
          id="tspan4035"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">3. Marcar uma reunião com o cliente para esclarecer algumas dúvidas</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">3. Marcar uma reunião com o cliente para esclarecer algumas dúvidas</tspan><tspan
          sodipodi:role="line"
          x="41.599998"
          y="1338.1953"
          id="tspan4037"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">que surgiram no processo de esboço inicial do logo e criar um Briefing;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">que surgiram no processo de esboço inicial do logo e criar um Briefing;</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="1424.9557"
        id="text4106"><tspan
@@ -484,21 +489,21 @@
          x="114.00773"
          y="1424.9557"
          id="tspan4108"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Qual seu background profissional?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Qual seu background profissional?</tspan></text>
     <text
        id="text4110"
        y="1485.2706"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4112"
          y="1485.2706"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Qual seu papel no Bytebank?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Qual seu papel no Bytebank?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="1545.7345"
        id="text4114"><tspan
@@ -506,21 +511,21 @@
          x="114.00773"
          y="1545.7345"
          id="tspan4116"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Por que vc e os demais socios resolveram abrir o Bytebank?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Por que vc e os demais socios resolveram abrir o Bytebank?</tspan></text>
     <text
        id="text4118"
        y="1606.1984"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4120"
          y="1606.1984"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Qual a ideia básica por tras do Bytebank?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Qual a ideia básica por tras do Bytebank?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="1666.6622"
        id="text4122"><tspan
@@ -528,21 +533,21 @@
          x="114.00773"
          y="1666.6622"
          id="tspan4124"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais são os valores básicos da empresa?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais são os valores básicos da empresa?</tspan></text>
     <text
        id="text4126"
        y="1727.1261"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4128"
          y="1727.1261"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais as forças da marca?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais as forças da marca?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="1787.9556"
        id="text4130"><tspan
@@ -550,21 +555,21 @@
          x="114.00773"
          y="1787.9556"
          id="tspan4132"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais problemas e desafios vcs enfrentaram até aqui?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais problemas e desafios vcs enfrentaram até aqui?</tspan></text>
     <text
        id="text4134"
        y="1848.4194"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4136"
          y="1848.4194"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais as fragilidades da marca atualmente?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais as fragilidades da marca atualmente?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="1909.0188"
        id="text4138"><tspan
@@ -572,21 +577,21 @@
          x="114.00773"
          y="1909.0188"
          id="tspan4140"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais dificuldades veem pela frente?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais dificuldades veem pela frente?</tspan></text>
     <text
        id="text4142"
        y="1969.1981"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4144"
          y="1969.1981"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Como a marca pretende estar em 5 anos?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Como a marca pretende estar em 5 anos?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="2029.3777"
        id="text4146"><tspan
@@ -594,21 +599,21 @@
          x="114.00773"
          y="2029.3777"
          id="tspan4148"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quem é o público-alvo da marca?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quem é o público-alvo da marca?</tspan></text>
     <text
        id="text4150"
        y="2089.5571"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4152"
          y="2089.5571"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quem são os parceiros do Bytebank?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quem são os parceiros do Bytebank?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="2150.3054"
        id="text4154"><tspan
@@ -616,21 +621,21 @@
          x="114.00773"
          y="2150.3054"
          id="tspan4156"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Vcs pretendem conseguir outros parceiros no futuro?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Vcs pretendem conseguir outros parceiros no futuro?</tspan></text>
     <text
        id="text4158"
        y="2210.6204"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4160"
          y="2210.6204"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Qual a marca que para vc é parâmetro no segmento?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Qual a marca que para vc é parâmetro no segmento?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="2270.9353"
        id="text4162"><tspan
@@ -638,21 +643,21 @@
          x="114.00773"
          y="2270.9353"
          id="tspan4164"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quem é a concorrência hj?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quem é a concorrência hj?</tspan></text>
     <text
        id="text4166"
        y="2331.3992"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4168"
          y="2331.3992"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Como a concorrência chega a seu público?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Como a concorrência chega a seu público?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="2391.7144"
        id="text4170"><tspan
@@ -660,21 +665,21 @@
          x="114.00773"
          y="2391.7144"
          id="tspan4172"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais serão os pontos de contato do Bytebank com esse público?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais serão os pontos de contato do Bytebank com esse público?</tspan></text>
     <text
        id="text4174"
        y="2452.4624"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4176"
          y="2452.4624"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Quais os diferenciais do Bytebank em relação a sua concorrencia?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Quais os diferenciais do Bytebank em relação a sua concorrencia?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="114.00773"
        y="2513.2922"
        id="text4178"><tspan
@@ -682,34 +687,34 @@
          x="114.00773"
          y="2513.2922"
          id="tspan4180"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Como o bytebank se define perante seu público?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Como o bytebank se define perante seu público?</tspan></text>
     <text
        id="text4182"
        y="2573.7561"
        x="114.00773"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4184"
          y="2573.7561"
          x="114.00773"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Como o bytebank pretende comunicar isso e passar seus valores?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Como o bytebank pretende comunicar isso e passar seus valores?</tspan></text>
     <text
        id="text4193"
        y="2666.1953"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4197"
          y="2666.1953"
          x="41.599998"
          sodipodi:role="line"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Características de um bom logo, segundo Paul Rand: Adaptável, Distinguivel e Simples..</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Características de um bom logo, segundo Paul Rand: Adaptável, Distinguivel e Simples..</tspan><tspan
          y="2692.8621"
          x="41.599998"
          sodipodi:role="line"
          id="tspan4205"
-         style="font-size:21.33333333px;line-height:1.25;stroke-width:1.06666672;fill:#333333;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Pode ser desenhado a lápis em 10 segundos;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Pode ser desenhado a lápis em 10 segundos;</tspan></text>
     <g
        id="g4316"
        transform="translate(200.27591,178.19091)"
@@ -724,7 +729,7 @@
            x="1264.2664"
            id="tspan4225"
            sodipodi:role="line"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -735,7 +740,7 @@
            id="tspan4229"
            x="1213.229"
            y="1567.3326"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          id="text4231"
          y="1567.3326"
@@ -746,7 +751,7 @@
            x="1162.1917"
            id="tspan4233"
            sodipodi:role="line"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -757,7 +762,7 @@
            id="tspan4237"
            x="1111.1543"
            y="1567.3326"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -768,7 +773,7 @@
            id="tspan4241"
            x="1266.8706"
            y="1614.0959"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">1</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">1</tspan></text>
       <text
          id="text4243"
          y="1614.0959"
@@ -779,7 +784,7 @@
            x="1213.229"
            id="tspan4245"
            sodipodi:role="line"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -790,7 +795,7 @@
            id="tspan4249"
            x="1162.1917"
            y="1614.0959"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
       <text
          id="text4251"
          y="1614.0959"
@@ -801,23 +806,23 @@
            x="1111.1543"
            id="tspan4253"
            sodipodi:role="line"
-           style="font-size:42.66666794px;line-height:1.25;stroke-width:1.06666672;fill:#333333">0</tspan></text>
+           style="font-size:42.66666794px;line-height:1.25;fill:#333333;stroke-width:1.06666672">0</tspan></text>
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4273"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(200.27591,178.19091)"><flowRegion
          id="flowRegion4275"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:1.06666672px;fill:#333333;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;stroke-width:1.06666672px"><rect
            id="rect4277"
            width="15.839191"
            height="112.38284"
            x="1060.4716"
            y="1530.5675"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:1.13777781px;fill:#333333;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;stroke-width:1.13777781px" /></flowRegion><flowPara
          id="flowPara4279"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';stroke-width:1.06666672px;fill:#333333;"> </flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;stroke-width:1.06666672px"> </flowPara></flowRoot>    <g
        id="g4312"
        transform="translate(200.03191,178.19091)"
        style="fill:#333333">
@@ -838,11 +843,11 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="2818.1948"
        id="text4464"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4462"
          sodipodi:role="line"
          x="41.599998"
@@ -851,20 +856,20 @@
        id="text4470"
        y="2883.158"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="2883.158"
          x="41.599998"
          sodipodi:role="line"
          id="tspan4468"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Marca: ByteBank</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Marca: ByteBank</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="2948.2354"
        id="text4474"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4472"
          sodipodi:role="line"
          x="41.599998"
@@ -873,104 +878,104 @@
        id="text4478"
        y="3013.6047"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="3013.6047"
          x="41.599998"
          sodipodi:role="line"
          id="tspan4476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">A empresa: Startup formada por ex-funcionários de um grande banco do mercado e que viram</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">A empresa: Startup formada por ex-funcionários de um grande banco do mercado e que viram</tspan><tspan
          y="3040.2715"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4480">esta demanda do mercado: um cartão de crédito 100% voltado a compras na internet e à proteção</tspan><tspan
          y="3066.938"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4482">do cliente em toda cadeia logística</tspan></text>
     <text
        id="text4486"
        y="3131.9011"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="3131.9011"
          x="41.599998"
          sodipodi:role="line"
          id="tspan4484"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Público-alvo: Classe média, 18 a 23 anos, estudantes ou autônomos, de grandes centros urbanos, que </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Público-alvo: Classe média, 18 a 23 anos, estudantes ou autônomos, de grandes centros urbanos, que </tspan><tspan
          y="3158.5679"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4488">não podem ou desejam utilizar os cartões de bandeiras tradicionais mas têm desejo de realizar compras </tspan><tspan
          y="3185.2344"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4490">internacionais online</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3245.9685"
        id="text4494"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4492"
          sodipodi:role="line"
          x="41.599998"
          y="3245.9685">Problema: Criar um logo e uma identidade visual completa, dando uma cara a comunicação da empresa.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3272.6353"
          id="tspan4496">que pretende ser discreta, rápida, eficiente e de confiança</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3337.7859"
        id="text4500"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4498"
          sodipodi:role="line"
          x="41.599998"
          y="3337.7859">Produto: Cartão virtual - enviado por e-mail e cadastrado no app. App para auto-atendimento. Website</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3364.4526"
          id="tspan4502">para notícias e canais de comunicação</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3429.6033"
        id="text4506"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4504"
          sodipodi:role="line"
          x="41.599998"
          y="3429.6033">Pontos de contato: Parceria promocional com varejos online, marketing em mídia social, google adsence, </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3456.27"
          id="tspan4508">gerando leads</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3521.4519"
        id="text4512"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4510"
          sodipodi:role="line"
          x="41.599998"
          y="3521.4519">Diferenciais: 100% online, mais dinâmico e amplo que os cartões de crédito pré-pagos, mais amistoso, acessível,</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3548.1187"
@@ -979,26 +984,26 @@
        id="text4520"
        y="3613.3005"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          id="tspan4518"
          y="3613.3005"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Objetivo: Conquistar mais parcerias, se tornar a principal forma de pagamento de comércio eletrônico no país,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672">Objetivo: Conquistar mais parcerias, se tornar a principal forma de pagamento de comércio eletrônico no país,</tspan><tspan
          y="3639.9673"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4524">formação de um público qeu promova a marca espontaneamente</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3705.1177"
        id="text4530"><tspan
          id="tspan4528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3705.1177">Concorrencia: Cartões de crédito pré-pagos, Nubank, cartões convencionais, paypal, etc</tspan></text>
@@ -1006,34 +1011,34 @@
        id="text4536"
        y="3770.1953"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="3770.1953"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4534">Parceiros: Varejos online, empresas de lojística e despacho</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        x="41.599998"
        y="3902.6755"
        id="text4540"><tspan
          id="tspan4538"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          sodipodi:role="line"
          x="41.599998"
          y="3902.6755">4  - Pesquisar o logo e a identidade visual dos concorrentes</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
        x="39.267967"
-       y="1038.6201"
+       y="1012.6201"
        id="text5595"><tspan
          sodipodi:role="line"
          id="tspan5593"
          x="39.267967"
-         y="1038.6201">Mood board</tspan></text>
+         y="1012.6201">Mood board - Identidade Visual</tspan></text>
     <image
        y="3393.5195"
        x="-249"
@@ -1043,18 +1048,17 @@
        height="1080"
        width="3286"
        clip-path="url(#clipPath4504)"
-       transform="translate(1,124)"
-       style="" />
+       transform="translate(1,124)" />
     <text
        id="text4507"
        y="4262.6758"
        x="41.599998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
        xml:space="preserve"><tspan
          y="4262.6758"
          x="41.599998"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';fill:#333333;stroke-width:1.06666672;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
          id="tspan4505">5  - Pesquisar por inspiração</tspan></text>
     <text
        xml:space="preserve"
@@ -1511,7 +1515,7 @@
          sodipodi:role="line">Products</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.0819397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.23821592;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.0819397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.23821592"
        x="1289.2894"
        y="1235.3311"
        id="text4642"><tspan
@@ -1519,7 +1523,7 @@
          id="tspan4640"
          x="1289.2894"
          y="1235.3311"
-         style="stroke-width:3.23821592;fill:#333333;">ByteBank</tspan></text>
+         style="fill:#333333;stroke-width:3.23821592">ByteBank</tspan></text>
     <g
        style="fill:#333333"
        transform="translate(83.34258,169.65758)"
@@ -1812,12 +1816,14 @@
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;fill-opacity:1">bank</tspan></tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.47481632;marker:none;enable-background:accumulate"
-       d="M 98.521484 5508.5 L 98.521484 5527.5781 L 117.59961 5527.5781 L 117.59961 5508.5 L 98.521484 5508.5 z M 117.59961 5527.5781 L 117.59961 5546.6582 L 98.521484 5546.6582 L 98.521484 5565.7363 L 117.59961 5565.7363 L 136.67969 5565.7363 L 136.67969 5546.6582 L 155.75977 5546.6582 L 155.75977 5527.5781 L 136.67969 5527.5781 L 117.59961 5527.5781 z M 79.441406 5565.7383 L 79.441406 5584.8164 L 98.521484 5584.8164 L 98.521484 5565.7383 L 79.441406 5565.7383 z M 117.59961 5565.7383 L 117.59961 5584.8164 L 136.67969 5584.8164 L 136.67969 5565.7383 L 117.59961 5565.7383 z M 136.67969 5584.8164 L 136.67969 5603.8965 L 155.75977 5603.8965 L 155.75977 5584.8164 L 136.67969 5584.8164 z "
-       id="rect6182" />
+       d="m 98.521484,5508.5 v 19.0781 H 117.59961 V 5508.5 Z m 19.078126,19.0781 v 19.0801 H 98.521484 v 19.0781 h 19.078126 19.08008 v -19.0781 h 19.08008 v -19.0801 h -19.08008 z m -38.158204,38.1602 v 19.0781 h 19.080078 v -19.0781 z m 38.158204,0 v 19.0781 h 19.08008 v -19.0781 z m 19.08008,19.0781 v 19.0801 h 19.08008 v -19.0801 z"
+       id="rect6182"
+       inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.21693611;marker:none;enable-background:accumulate"
-       d="M 787.26758 5491.3047 L 787.26758 5523.9609 L 819.92383 5523.9609 L 819.92383 5491.3047 L 787.26758 5491.3047 z M 819.92383 5523.9609 L 819.92383 5556.6152 L 852.58008 5556.6152 L 885.23438 5556.6152 L 885.23438 5523.9609 L 852.58008 5523.9609 L 819.92383 5523.9609 z M 787.26758 5556.6172 L 787.26758 5589.2715 L 819.92383 5589.2715 L 852.58008 5589.2715 L 852.58008 5556.6172 L 819.92383 5556.6172 L 787.26758 5556.6172 z M 754.61328 5589.2734 L 754.61328 5621.9277 L 787.26758 5621.9277 L 787.26758 5589.2734 L 754.61328 5589.2734 z M 819.92383 5589.2734 L 819.92383 5621.9277 L 852.58008 5621.9277 L 852.58008 5589.2734 L 819.92383 5589.2734 z M 852.58008 5621.9277 L 852.58008 5654.584 L 885.23438 5654.584 L 885.23438 5621.9277 L 852.58008 5621.9277 z "
-       id="rect6240" />
+       d="m 787.26758,5491.3047 v 32.6562 h 32.65625 v -32.6562 z m 32.65625,32.6562 v 32.6543 h 32.65625 32.6543 v -32.6543 h -32.6543 z m -32.65625,32.6563 v 32.6543 h 32.65625 32.65625 v -32.6543 h -32.65625 z m -32.6543,32.6562 v 32.6543 h 32.6543 v -32.6543 z m 65.31055,0 v 32.6543 h 32.65625 v -32.6543 z m 32.65625,32.6543 v 32.6563 h 32.6543 v -32.6563 z"
+       id="rect6240"
+       inkscape:connector-curvature="0" />
     <rect
        y="5644.9746"
        x="42.641727"
@@ -1840,8 +1846,9 @@
    id="tspan6304">bank</tspan></tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.47481632;marker:none;enable-background:accumulate"
-       d="M 98.521484 5686.0547 L 98.521484 5705.1328 L 117.59961 5705.1328 L 117.59961 5686.0547 L 98.521484 5686.0547 z M 117.59961 5705.1328 L 117.59961 5724.2129 L 98.521484 5724.2129 L 98.521484 5743.291 L 117.59961 5743.291 L 136.67969 5743.291 L 136.67969 5724.2129 L 155.75977 5724.2129 L 155.75977 5705.1328 L 136.67969 5705.1328 L 117.59961 5705.1328 z M 79.441406 5743.293 L 79.441406 5762.3711 L 98.521484 5762.3711 L 98.521484 5743.293 L 79.441406 5743.293 z M 117.59961 5743.293 L 117.59961 5762.3711 L 136.67969 5762.3711 L 136.67969 5743.293 L 117.59961 5743.293 z M 136.67969 5762.3711 L 136.67969 5781.4512 L 155.75977 5781.4512 L 155.75977 5762.3711 L 136.67969 5762.3711 z "
-       id="rect6310" />
+       d="m 98.521484,5686.0547 v 19.0781 h 19.078126 v -19.0781 z m 19.078126,19.0781 v 19.0801 H 98.521484 v 19.0781 h 19.078126 19.08008 v -19.0781 h 19.08008 v -19.0801 h -19.08008 z m -38.158204,38.1602 v 19.0781 h 19.080078 v -19.0781 z m 38.158204,0 v 19.0781 h 19.08008 v -19.0781 z m 19.08008,19.0781 v 19.0801 h 19.08008 v -19.0801 z"
+       id="rect6310"
+       inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:7.35993767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6330"
@@ -1851,7 +1858,7 @@
        y="5467.4199" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.10322762px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.67526889;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.10322762px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.67526889"
        x="1068.1825"
        y="5756.251"
        id="text6336"><tspan
@@ -1859,13 +1866,14 @@
          x="1068.1825"
          y="5756.251"
          id="tspan6334"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:94.20352936px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:1.67526889;">Byte<tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:94.20352936px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke-width:1.67526889">Byte<tspan
    id="tspan6332"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#f9f9f9;fill-opacity:1;">bank</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#f9f9f9;fill-opacity:1">bank</tspan></tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.21693611;marker:none;enable-background:accumulate"
-       d="M 1226.2188 5491.3047 L 1226.2188 5523.9609 L 1258.875 5523.9609 L 1258.875 5491.3047 L 1226.2188 5491.3047 z M 1258.875 5523.9609 L 1258.875 5556.6152 L 1291.5293 5556.6152 L 1324.1855 5556.6152 L 1324.1855 5523.9609 L 1291.5293 5523.9609 L 1258.875 5523.9609 z M 1226.2188 5556.6172 L 1226.2188 5589.2715 L 1258.875 5589.2715 L 1291.5293 5589.2715 L 1291.5293 5556.6172 L 1258.875 5556.6172 L 1226.2188 5556.6172 z M 1193.5625 5589.2734 L 1193.5625 5621.9277 L 1226.2188 5621.9277 L 1226.2188 5589.2734 L 1193.5625 5589.2734 z M 1258.875 5589.2734 L 1258.875 5621.9277 L 1291.5293 5621.9277 L 1291.5293 5589.2734 L 1258.875 5589.2734 z M 1291.5293 5621.9277 L 1291.5293 5654.584 L 1324.1855 5654.584 L 1324.1855 5621.9277 L 1291.5293 5621.9277 z "
-       id="rect6338" />
+       d="m 1226.2188,5491.3047 v 32.6562 h 32.6562 v -32.6562 z m 32.6562,32.6562 v 32.6543 h 32.6543 32.6562 v -32.6543 h -32.6562 z m -32.6562,32.6563 v 32.6543 h 32.6562 32.6543 v -32.6543 h -32.6543 z m -32.6563,32.6562 v 32.6543 h 32.6563 v -32.6543 z m 65.3125,0 v 32.6543 h 32.6543 v -32.6543 z m 32.6543,32.6543 v 32.6563 h 32.6562 v -32.6563 z"
+       id="rect6338"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
@@ -1886,5 +1894,42 @@
          x="-111.02959"
          id="tspan6420"
          sodipodi:role="line">NEGATIVA</tspan></text>
+    <text
+       id="text4634"
+       y="1070.6201"
+       x="39.267967"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1070.6201"
+         x="39.267967"
+         id="tspan4632"
+         sodipodi:role="line">Criação do Logo:</tspan></text>
+    <text
+       id="text4638"
+       y="5932.0508"
+       x="41.599998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         y="5932.0508"
+         x="41.599998"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
+         id="tspan4636">Criação do sistema visual para: Tela inicial do app, um exemplo de e-mail marking, um exemplo de hotsite para geração de leads, </tspan><tspan
+         y="5958.7173"
+         x="41.599998"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
+         id="tspan4641">cartão virtual e peças para redes sociais. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="41.599998"
+       y="6044.0508"
+       id="text4647"><tspan
+         id="tspan4645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
+         sodipodi:role="line"
+         x="41.599998"
+         y="6044.0508">Sistema visual é como os elementos da marca funcionam em conjunto em seu uso, no sentido de reforçar a identidade visual.</tspan></text>
   </g>
 </svg>

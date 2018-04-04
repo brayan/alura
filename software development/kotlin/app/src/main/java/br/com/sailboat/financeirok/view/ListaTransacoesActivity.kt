@@ -24,11 +24,18 @@ class ListaTransacoesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_lista_transacoes)
 
-        inicializarAdapter()
+        val transacoes = criarTransacoesDeExemplo()
+
+        inicializarResumo(transacoes)
+        inicializarAdapter(transacoes)
     }
 
-    private fun inicializarAdapter() {
-        listviewTransacoes.adapter = ListaTransacoesAdapter(criarTransacoesDeExemplo(), this)
+    private fun inicializarResumo(transacoes: List<Transacao>) {
+        ResumoView(window.decorView).adicionarTotais(transacoes);
+    }
+
+    private fun inicializarAdapter(transacoes: List<Transacao>) {
+        listviewTransacoes.adapter = ListaTransacoesAdapter(transacoes, this)
     }
 
     private fun criarTransacoesDeExemplo(): List<Transacao> {
