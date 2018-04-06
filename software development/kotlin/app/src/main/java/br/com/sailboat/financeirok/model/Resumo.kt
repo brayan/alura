@@ -23,11 +23,10 @@ class Resumo {
     }
 
     fun calcularTotal(transacoes: List<Transacao>): BigDecimal {
-        var total = BigDecimal.ZERO
+        val receita = calcularReceita(transacoes)
+        val despesa = calcularDespesa(transacoes)
 
-        transacoes.forEach { total = total.plus(it.valor) }
-
-        return total
+        return receita - despesa
     }
 
 }
