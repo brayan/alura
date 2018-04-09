@@ -32,8 +32,7 @@ class ListaTransacoesActivity : AppCompatActivity() {
 
     private fun inicializarResumo(transacoes: List<Transacao>) {
         val resumoView = ResumoView(this, window.decorView)
-        resumoView.adicionarTotais(transacoes);
-        resumoView.inicializarCores(transacoes);
+        resumoView.atualizarTotais(transacoes);
     }
 
     private fun inicializarAdapter(transacoes: List<Transacao>) {

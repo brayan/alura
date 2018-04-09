@@ -12,7 +12,7 @@ import java.math.BigDecimal
 
 class ResumoView(private val context: Context, private val view: View) {
 
-    fun adicionarTotais(transacoes: List<Transacao>) {
+    fun atualizarTotais(transacoes: List<Transacao>) {
         val resumo = Resumo()
 
         var totalReceita = resumo.calcularReceita(transacoes)
@@ -22,6 +22,8 @@ class ResumoView(private val context: Context, private val view: View) {
         view.resumo_card_receita.text = totalReceita.formatarParaBrasileiro()
         view.resumo_card_despesa.text = totalDespesa.formatarParaBrasileiro()
         view.resumo_card_total.text = total.formatarParaBrasileiro()
+
+        inicializarCores(transacoes)
     }
 
     fun inicializarCores(transacoes: List<Transacao>) {
