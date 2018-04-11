@@ -2,6 +2,7 @@ package br.com.sailboat.financeirok.view
 
 import android.content.Intent
 import android.os.Bundle
+import android.support.v7.app.AlertDialog
 import android.support.v7.app.AppCompatActivity
 import br.com.sailboat.financeirok.R
 import br.com.sailboat.financeirok.model.TipoTransacao
@@ -28,6 +29,17 @@ class ListaTransacoesActivity : AppCompatActivity() {
 
         inicializarResumo(transacoes)
         inicializarAdapter(transacoes)
+
+        lista_transacoes_adiciona_receita.setOnClickListener {
+            onClickAdicionarReceita()
+        }
+    }
+
+    private fun onClickAdicionarReceita() {
+        AlertDialog.Builder(this)
+            .setTitle(R.string.adiciona_receita)
+            .setView(R.layout.form_transacao)
+            .show()
     }
 
     private fun inicializarResumo(transacoes: List<Transacao>) {
