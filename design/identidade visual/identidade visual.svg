@@ -40,9 +40,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-170.56317"
-     inkscape:cx="877.17402"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="-222.4108"
+     inkscape:cx="727.02483"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1943,15 +1943,52 @@
          x="41.599998"
          y="6127.0508">Definir a tipografia de apoio.</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="313.73083"
-       y="6541.3169"
-       id="text4654"><tspan
+       id="text4655"
+       y="6481.457"
+       x="41.599998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"><tspan
+         y="6481.457"
+         x="41.599998"
          sodipodi:role="line"
-         id="tspan4652"
-         x="313.73083"
-         y="6541.3169">logboat</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
+         id="tspan4653">Definir a tipografia de apoio.</tspan></text>
+    <rect
+       y="6578.1094"
+       x="43.360413"
+       height="216.51718"
+       width="267.63629"
+       id="rect4657"
+       style="opacity:1;vector-effect:none;fill:#333333;fill-opacity:1;stroke:none;stroke-width:4.4874897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text4664"
+       y="6754.2148"
+       x="57.773872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.25730801px;line-height:0%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02144229"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.4376297px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:1.02144229"
+         id="tspan4662"
+         y="6754.2148"
+         x="57.773872"
+         sodipodi:role="line">Byte<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;fill-opacity:1;stroke-width:1.02144229"
+   id="tspan4660">bank</tspan></tspan></text>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.88776493;marker:none;enable-background:accumulate"
+       d="m 154.13116,6592.6725 v 19.911 h 19.91111 v -19.911 z m 19.91111,19.911 v 19.91 h 19.91112 19.90993 v -19.91 h -19.90993 z m -19.91111,19.9112 v 19.9099 h 19.91111 19.91112 v -19.9099 h -19.91112 z m -19.90993,19.9111 v 19.9099 h 19.90993 v -19.9099 z m 39.82104,0 v 19.9099 h 19.91112 v -19.9099 z m 19.91112,19.9099 v 19.9112 h 19.90993 v -19.9112 z"
+       id="path4666"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="41.599998"
+       y="6551.457"
+       id="text4742"><tspan
+         id="tspan4740"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;stroke-width:1.06666672"
+         sodipodi:role="line"
+         x="41.599998"
+         y="6551.457">Definir as cores principais: Analisar os concorentes </tspan></text>
   </g>
   <g
      id="g6001"
