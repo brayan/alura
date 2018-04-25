@@ -16,10 +16,8 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 class AdicionarTransacaoDialog(val context: Context,
-                               val callback: AdicionarTransacaoDialog.Callback,
                                val tipoTransacao: TipoTransacao,
-                               val titulo: Int,
-                               val categorias: Int) {
+                               val callback: AdicionarTransacaoDialog.Callback) {
 
     private val viewCriada = View.inflate(context, R.layout.form_transacao, null)
 
@@ -31,13 +29,13 @@ class AdicionarTransacaoDialog(val context: Context,
 
     private fun configurarFormulario() {
         AlertDialog.Builder(context)
-            .setTitle(titulo)
+            .setTitle(tipoTransacao.titulo)
             .setView(viewCriada)
             .setPositiveButton("Adicionar", { dialog, which ->
 
-                val valorEmTexto = viewCriada.form_transacao_valor.text.toString()
-                val dataEmTexto = viewCriada.form_transacao_data.text.toString()
-                val categoriaEmTexto = viewCriada.form_transacao_categoria.selectedItem.toString()
+                val valorEmTexto = viewCriada.tvValor.text.toString()
+                val dataEmTexto = viewCriada.tvData.text.toString()
+                val categoriaEmTexto = viewCriada.spCategoria.selectedItem.toString()
 
                 val valor = converterCampoValor(valorEmTexto)
 
@@ -77,29 +75,29 @@ class AdicionarTransacaoDialog(val context: Context,
     private fun configurarCampoCategorias() {
         val adapter = ArrayAdapter.createFromResource(
             context,
-            categorias,
+            tipoTransacao.categorias,
             android.R.layout.simple_spinner_dropdown_item
         )
 
-        viewCriada.form_transacao_categoria.adapter = adapter
+        viewCriada.spCategoria.adapter = adapter
     }
 
     private fun configurarCampoData() {
         val today = Calendar.getInstance()
 
-        viewCriada.form_transacao_data.setText(today.toShortDateBrazil())
+        viewCriada.tvData.setText(today.toShortDateBrazil())
 
         val ano = today.get(Calendar.YEAR)
         val month = today.get(Calendar.MONTH)
         val day = today.get(Calendar.DAY_OF_MONTH)
 
-        viewCriada.form_transacao_data.setOnClickListener {
+        viewCriada.tvData.setOnClickListener {
             DatePickerDialog(
                 context,
                 DatePickerDialog.OnDateSetListener { view, year, month, dayOfMonth ->
                     val dataSelecionada = Calendar.getInstance()
                     dataSelecionada.set(year, month, dayOfMonth)
-                    viewCriada.form_transacao_data.setText(dataSelecionada.toShortDateBrazil())
+                    viewCriada.tvData.setText(dataSelecionada.toShortDateBrazil())
                 }, ano, month, day
             ).show()
         }
