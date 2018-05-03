@@ -1,0 +1,24 @@
+criar um repo: git init
+
+git clone url.git
+
+git tag
+
+git checkout tagName
+
+git diff v0.1 v0.2
+
+check the files: git ls-files
+
+check status: git status
+
+add file: git add index.html
+add all files: git add --all
+
+commit: git commit -m "Mensagem do commit"
+
+config user name: git config user.name "Brayan Bedritchuk"
+config user email: git config user.email "brayan.bedritchuk@gmail.com"
+
+
+git push

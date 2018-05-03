@@ -15,7 +15,7 @@ class ListaTransacoesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_lista_transacoes)
         inicializarResumo()
-        inicializarAdapter()
+        inicializarLista()
         inicializarFab()
     }
 
@@ -33,7 +33,8 @@ class ListaTransacoesActivity : AppCompatActivity() {
             object : AdicionarTransacaoDialog.Callback {
 
                 override fun onClickAdicionar(transacao: Transacao) {
-                    atualizarTransacoes(transacao)
+                    transacoes.add(transacao)
+                    atualizarTransacoes()
                     lista_transacoes_adiciona_menu.close(true)
                 }
 
@@ -41,19 +42,32 @@ class ListaTransacoesActivity : AppCompatActivity() {
         ).mostrarDialog()
     }
 
-    private fun atualizarTransacoes(transacao: Transacao) {
-        transacoes.add(transacao)
-        inicializarAdapter()
+    private fun atualizarTransacoes() {
         inicializarResumo()
+        inicializarAdapter()
+    }
+
+    private fun inicializarLista() {
+        inicializarAdapter()
+        listviewTransacoes.setOnItemClickListener { parent, view, position, id ->
+            onClickTransacao(position)
+        }
+    }
+
+    private fun onClickTransacao(position: Int) {
+        val transacao = transacoes[position]
+        AlterarTransacaoDialog(this, transacao, object: AlterarTransacaoDialog.Callback{
+            override fun onClickAlterar(transacao: Transacao) {
+                transacoes[position] = transacao
+                atualizarTransacoes()
+                lista_transacoes_adiciona_menu.close(true)
+            }
+        }).mostrarDialog()
     }
 
     private fun inicializarResumo() {
         val resumoView = ResumoView(this, window.decorView)
         resumoView.atualizarTotais(transacoes);
-    }
-
-    private fun inicializarAdapter() {
-        listviewTransacoes.adapter = ListaTransacoesAdapter(transacoes, this)
     }
 
     private fun inicializarFab() {
@@ -65,5 +79,10 @@ class ListaTransacoesActivity : AppCompatActivity() {
             onClickAdicionarDespesa()
         }
     }
+
+    private fun inicializarAdapter() {
+        listviewTransacoes.adapter = ListaTransacoesAdapter(transacoes, this)
+    }
+
 
 }

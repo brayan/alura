@@ -8,16 +8,15 @@ import android.widget.ArrayAdapter
 import android.widget.Toast
 import br.com.sailboat.financeirok.R
 import br.com.sailboat.financeirok.extension.toShortDateBrazil
-import br.com.sailboat.financeirok.model.TipoTransacao
 import br.com.sailboat.financeirok.model.Transacao
 import kotlinx.android.synthetic.main.form_transacao.view.*
 import java.math.BigDecimal
 import java.text.SimpleDateFormat
 import java.util.*
 
-class AdicionarTransacaoDialog(val context: Context,
-                               val tipoTransacao: TipoTransacao,
-                               val callback: AdicionarTransacaoDialog.Callback) {
+class AlterarTransacaoDialog(val context: Context,
+                             val transacao: Transacao,
+                             val callback: AlterarTransacaoDialog.Callback) {
 
     private val viewCriada = View.inflate(context, R.layout.form_transacao, null)
 
@@ -25,29 +24,33 @@ class AdicionarTransacaoDialog(val context: Context,
         configurarCampoData()
         configurarCampoCategorias()
         configurarFormulario()
+
+        viewCriada.tvValor.setText(transacao.valor.toString())
+        viewCriada.tvData.setText(transacao.data.toShortDateBrazil())
+        val categorias = context.resources.getStringArray(transacao.tipo.categorias)
+        val posicaoCategoria = categorias.indexOf(transacao.categoria)
+        viewCriada.spCategoria.setSelection(posicaoCategoria, true);
     }
 
     private fun configurarFormulario() {
         AlertDialog.Builder(context)
-            .setTitle(tipoTransacao.tituloAdicionar)
+            .setTitle(transacao.tipo.tituloAlterar)
             .setView(viewCriada)
-            .setPositiveButton("Adicionar", { dialog, which ->
-
+            .setPositiveButton("Alterar", { dialog, which ->
                 val valorEmTexto = viewCriada.tvValor.text.toString()
                 val dataEmTexto = viewCriada.tvData.text.toString()
                 val categoriaEmTexto = viewCriada.spCategoria.selectedItem.toString()
 
                 val valor = converterCampoValor(valorEmTexto)
 
-                val transacao = Transacao(
-                    tipo = tipoTransacao,
+                val transacaoRetorno = Transacao(
+                    tipo = transacao.tipo,
                     valor = valor,
                     data = dataEmTexto.convertFromShortDateToCalender(),
                     categoria = categoriaEmTexto
                 )
 
-                callback.onClickAdicionar(transacao)
-
+                callback.onClickAlterar(transacaoRetorno)
             })
             .setNegativeButton("Cancelar", null)
             .show()
@@ -75,7 +78,7 @@ class AdicionarTransacaoDialog(val context: Context,
     private fun configurarCampoCategorias() {
         val adapter = ArrayAdapter.createFromResource(
             context,
-            tipoTransacao.categorias,
+            transacao.tipo.categorias,
             android.R.layout.simple_spinner_dropdown_item
         )
 
@@ -104,6 +107,6 @@ class AdicionarTransacaoDialog(val context: Context,
     }
 
     interface Callback {
-        fun onClickAdicionar(transacao: Transacao)
+        fun onClickAlterar(transacao: Transacao)
     }
 }
