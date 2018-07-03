@@ -22,3 +22,66 @@ config user email: git config user.email "brayan.bedritchuk@gmail.com"
 
 
 git push
+
+git log: commits history
+
+git whatchanged -p: history with changed files
+
+git remote: show remote repositories
+
+git remote add origin url.git: adds a remote repository inside a local one
+
+git push remote_repository branch_name: git push origin master... push to remote repository
+
+git pull origin master
+
+main branch: branch master
+
+git branch: show branches
+
+change branch: git checkout branch_name
+
+push a branch for the first time: git push -u origin branch_name
+
+show remote branches: git branch -r
+
+show ALL branches (remote and local): git branch -a
+
+checkout a created branch: git branch -t branch_name origin/branch_name
+
+create a branch and change the repo to it: git checkout -b branch_name
+
+remove branch: git push -d origin branch_name
+
+create local branch, change to this new branch, create link bretwen local and remote: git checkout -t origin/branch_name
+
+check changes in the repo: git fetch origin
+
+Resolvendo Conflitos:
+
+Verificar arquivo em conflito:
+<<<<<<<<<<
+	Meu commit original (conteúdo antigo)
+=========
+>>>>>>>>>>
+	Alterações recebidas (conteúdo novo)
+
+git add --all
+git commit -m "Merge dos conflitos"
+
+git rebase: efetuar merges entre diferentes branches
+
+Revert a file to last commit: git checkout file_name
+
+Remove a file from index (add state): git reset HEAD file_name
+
+Revert files to specific commit:  git reset commit_id
+
+Guardar as alterações que não foram comitadas: git stash
+
+Verificar stashes: git stash list
+
+Aplicar stash: git stash apply stash_name
+
+
+

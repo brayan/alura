@@ -15,19 +15,20 @@ import java.math.BigDecimal
 import java.text.SimpleDateFormat
 import java.util.*
 
-class AdicionarTransacaoDialog(val context: Context,
-                               val tipoTransacao: TipoTransacao,
-                               val callback: AdicionarTransacaoDialog.Callback) {
+class AdicionarTransacaoDialog(val context: Context) {
 
     private val viewCriada = View.inflate(context, R.layout.form_transacao, null)
 
-    fun mostrarDialog() {
+    fun mostrarDialog(tipoTransacao: TipoTransacao, delagate: (transacao: Transacao) -> Unit) {
         configurarCampoData()
-        configurarCampoCategorias()
-        configurarFormulario()
+        configurarCampoCategorias(tipoTransacao)
+        configurarFormulario(tipoTransacao, delagate)
     }
 
-    private fun configurarFormulario() {
+    private fun configurarFormulario(
+        tipoTransacao: TipoTransacao,
+        delagate: (transacao: Transacao) -> Unit
+    ) {
         AlertDialog.Builder(context)
             .setTitle(tipoTransacao.tituloAdicionar)
             .setView(viewCriada)
@@ -46,7 +47,7 @@ class AdicionarTransacaoDialog(val context: Context,
                     categoria = categoriaEmTexto
                 )
 
-                callback.onClickAdicionar(transacao)
+                delagate(transacao)
 
             })
             .setNegativeButton("Cancelar", null)
@@ -72,7 +73,7 @@ class AdicionarTransacaoDialog(val context: Context,
         }
     }
 
-    private fun configurarCampoCategorias() {
+    private fun configurarCampoCategorias(tipoTransacao: TipoTransacao) {
         val adapter = ArrayAdapter.createFromResource(
             context,
             tipoTransacao.categorias,
@@ -103,7 +104,4 @@ class AdicionarTransacaoDialog(val context: Context,
         }
     }
 
-    interface Callback {
-        fun onClickAdicionar(transacao: Transacao)
-    }
 }

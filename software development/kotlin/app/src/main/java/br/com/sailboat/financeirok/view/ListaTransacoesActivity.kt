@@ -2,14 +2,18 @@ package br.com.sailboat.financeirok.view
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.view.Menu
+import android.view.MenuItem
+import android.widget.AdapterView
 import br.com.sailboat.financeirok.R
+import br.com.sailboat.financeirok.dao.TransacaoDAO
 import br.com.sailboat.financeirok.model.TipoTransacao
 import br.com.sailboat.financeirok.model.Transacao
 import kotlinx.android.synthetic.main.activity_lista_transacoes.*
 
 class ListaTransacoesActivity : AppCompatActivity() {
 
-    private val transacoes: MutableList<Transacao> = mutableListOf()
+    private val dao = TransacaoDAO()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -28,18 +32,13 @@ class ListaTransacoesActivity : AppCompatActivity() {
     }
 
     private fun mostrarDialogTransacao(tipoTransacao: TipoTransacao) {
-        AdicionarTransacaoDialog(this,
-            tipoTransacao,
-            object : AdicionarTransacaoDialog.Callback {
 
-                override fun onClickAdicionar(transacao: Transacao) {
-                    transacoes.add(transacao)
-                    atualizarTransacoes()
-                    lista_transacoes_adiciona_menu.close(true)
-                }
+        AdicionarTransacaoDialog(this).mostrarDialog(tipoTransacao) {
+            dao.adicionar(it)
+            atualizarTransacoes()
+            lista_transacoes_adiciona_menu.close(true)
+        }
 
-            }
-        ).mostrarDialog()
     }
 
     private fun atualizarTransacoes() {
@@ -52,13 +51,36 @@ class ListaTransacoesActivity : AppCompatActivity() {
         listviewTransacoes.setOnItemClickListener { parent, view, position, id ->
             onClickTransacao(position)
         }
+
+        listviewTransacoes.setOnCreateContextMenuListener { menu, v, menuInfo ->
+            menu.add(Menu.NONE, 1, Menu.NONE, "Remover")
+
+        }
+    }
+
+    override fun onContextItemSelected(item: MenuItem?): Boolean {
+        return when (item?.itemId) {
+            1 -> {
+                val adapterMenu = (item.menuInfo as AdapterView.AdapterContextMenuInfo);
+                onClickRemover(adapterMenu.position)
+                true
+            }
+            else -> {
+                super.onContextItemSelected(item)
+            }
+        }
+    }
+
+    private fun onClickRemover(position: Int) {
+        dao.remover(position)
+        atualizarTransacoes()
     }
 
     private fun onClickTransacao(position: Int) {
-        val transacao = transacoes[position]
-        AlterarTransacaoDialog(this, transacao, object: AlterarTransacaoDialog.Callback{
+        val transacao = dao.transacoes[position]
+        AlterarTransacaoDialog(this, transacao, object : AlterarTransacaoDialog.Callback {
             override fun onClickAlterar(transacao: Transacao) {
-                transacoes[position] = transacao
+                dao.alterar(transacao, position)
                 atualizarTransacoes()
                 lista_transacoes_adiciona_menu.close(true)
             }
@@ -67,7 +89,7 @@ class ListaTransacoesActivity : AppCompatActivity() {
 
     private fun inicializarResumo() {
         val resumoView = ResumoView(this, window.decorView)
-        resumoView.atualizarTotais(transacoes);
+        resumoView.atualizarTotais(dao.transacoes);
     }
 
     private fun inicializarFab() {
@@ -81,7 +103,7 @@ class ListaTransacoesActivity : AppCompatActivity() {
     }
 
     private fun inicializarAdapter() {
-        listviewTransacoes.adapter = ListaTransacoesAdapter(transacoes, this)
+        listviewTransacoes.adapter = ListaTransacoesAdapter(dao.transacoes, this)
     }
 
 
