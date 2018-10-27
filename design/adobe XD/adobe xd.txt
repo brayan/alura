@@ -1,0 +1,14 @@
+UX: Pesquisas e estudos relacionados ao uso do app.
+AI: Reponsavel por Sketch, Sitemaps, Wireframes.
+UI: Visual dos projetos.
+
+Briefing
+
+Empresa/Cliente: QUem é? Quais suas referências?
+Projeto: Qual o objetivo do projeto?
+Cliente: Quem é o cliente/usuário final?
+Prazos e orçamento:...
+
+Sketch é um método rápido e de baixa fidelidade para projetar e organizar idéias.
+
+Desenhar a jornada do usuário.
