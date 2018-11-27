@@ -1,0 +1,3 @@
+Fragmentar um bloco grande em blocos pequenos de informações;
+
+Escolha uma mensagem principal em cada slide;
