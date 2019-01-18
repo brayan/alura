@@ -1,0 +1,5 @@
+java -jar -Dspring.profiles.active=teste server.jar
+
+http://localhost:8081/
+
+http://localhost:8081/reset
