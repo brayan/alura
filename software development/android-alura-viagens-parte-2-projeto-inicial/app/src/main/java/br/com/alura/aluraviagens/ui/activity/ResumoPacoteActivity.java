@@ -1,5 +1,7 @@
 package br.com.alura.aluraviagens.ui.activity;
 
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
@@ -23,6 +25,10 @@ public class ResumoPacoteActivity extends AppCompatActivity {
     private TextView tvPreco;
     private TextView tvData;
 
+    public static void start(Context context) {
+        context.startActivity(new Intent(context, ResumoPacoteActivity.class));
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,6 +41,8 @@ public class ResumoPacoteActivity extends AppCompatActivity {
         super.onResume();
         Pacote pacoteSaoPaulo = new Pacote("São Paulo", "sao_paulo_sp", 2, new BigDecimal("243.93"));
         bindPacote(pacoteSaoPaulo);
+
+        PagamentoActivity.start(this);
     }
 
     private void setUpViews() {

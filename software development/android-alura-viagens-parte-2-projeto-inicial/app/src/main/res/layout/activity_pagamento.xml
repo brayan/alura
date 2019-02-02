@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvDigiteAsInfomacoes"
+        android:textSize="14sp"
+        android:layout_margin="20dp"
+        app:layout_constraintVertical_bias="0.0"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Digite as informações do cartão de crédito que você deseja usar para o pagamento"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tvValorDaCompraLabel"
+        android:text="Valor da compra:"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintTop_toBottomOf="@+id/tvDigiteAsInfomacoes"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tvValorDaCompra"
+        tools:text="R$ 421,50"
+        android:layout_marginLeft="8dp"
+        android:textSize="24sp"
+        app:layout_constraintHorizontal_bias="0.0"
+        android:textColor="@android:color/holo_green_dark"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintTop_toBottomOf="@+id/tvValorDaCompraLabel"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:maxLength="12"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_margin="8dp"
+        android:inputType="number"
+        android:hint="Número do cartão"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvValorDaCompra"/>
+
+</android.support.constraint.ConstraintLayout>
