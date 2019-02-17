@@ -1,14 +1,11 @@
-window.onload = function () {
+window.onload = () => {
     inicializarListeners();
     preencherImcDosPacientes();
 }
 
 function preencherImcDosPacientes() {
     var pacientes = document.querySelectorAll(".paciente");
-
-    for (var i = 0; i < pacientes.length; i++) {
-        preencherImc(pacientes[i]);
-    }
+    pacientes.forEach(paciente => preencherImc(paciente));
 }
 
 function preencherImc(paciente) {
@@ -16,13 +13,13 @@ function preencherImc(paciente) {
     var altura = paciente.querySelector(".info-altura").textContent;
     var imcView = paciente.querySelector(".info-imc");
 
-    if (peso <= 0 || peso >= 1000) {
+    if (!isPesoValido(peso)) {
         imcView.textContent = "Peso inválido";
         paciente.classList.add("paciente-invalido");
         return;
     }
 
-    if (altura <= 0 || altura >= 3) {
+    if (!isAlturaValida(altura)) {
         imcView.textContent = "Altura inválida";
         paciente.classList.add("paciente-invalido");
         return;
@@ -31,15 +28,32 @@ function preencherImc(paciente) {
     imcView.textContent = calcularIMC(peso, altura);
 }
 
-function calcularIMC(peso, altura) {
-    var imc = peso / (altura * altura);
-    return imc.toFixed(2);
+function inicializarListeners() {
+    const btnAdicionar = document.querySelector("#adicionar-paciente");
+    addDoubleClickListener();
+    btnAdicionar.addEventListener("click", (event) => {
+        event.preventDefault();
+        onClickAddPatient();
+        preencherImcDosPacientes();
+        addDoubleClickListener();
+    });
+
+    const filter = document.querySelector("#filter-patients");
+    filter.addEventListener("input", function () {
+        onEnterInputText(this.value);
+    });
+
+    const btSearch = document.querySelector("#buscar-pacientes");
+    btSearch.addEventListener("click", function (event) {
+        event.preventDefault();
+        getPatients(onGetPatientsSuccess, onGetPatientsFail);
+    });
 }
 
-function inicializarListeners() {
-    var btnAdicionar = document.querySelector(".bto-principal");
-    btnAdicionar.addEventListener("click", function (event) {
-        event.preventDefault();
-        console.log("Oi, eu sou o botão!")
-    });
+function onGetPatientsSuccess(patients) {
+    patients.forEach(patient => addPatientInTheTable(patient));
+}
+
+function onGetPatientsFail() {
+    console.log("Erro :((((((");
 }
